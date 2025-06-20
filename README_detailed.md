@@ -145,6 +145,6 @@ ORDER BY c.email;
 
 ## 📬 Contact
 
-Made with ❤️ by **Your Name**  
-🔗 LinkedIn: [Your LinkedIn]  
-📫 Email: [Your Email]
+Made with ❤️ by **Laxman Khedkar**  
+🔗 LinkedIn:  
+📫 Email: khedkarlaxman823@gmail.com
